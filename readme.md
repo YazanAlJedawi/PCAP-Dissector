@@ -134,7 +134,7 @@ python Dissector.py help
 
 ## Contributing
 
-more functionality can and will be add, but you are more that welcome to do so !
+more functionality can and will be added, but you are more that welcome to do so !
 
 
 Y.
